@@ -71,6 +71,11 @@ Each CSV file contains the following columns:
 filename,mold,food,phone,microscope
 L10 - 48.jpeg,True,carrot,iPhone SE 2nd Generation,Apexel 100x
 ```
+
+## FreshLens Mobile App
+
+The [freshlens-app](https://github.com/MobileMold/freshlens-app) repository contains a Flutter-based mobile app designed for consumer-facing demonstrations and can be used in conjunction with a hosted model. Using a smartphone microscope attachment, users can capture or import images of food. The app then displays the probability that the food is moldy.
+
 ## 📄 License
 
 This dataset is available under the terms of the **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
