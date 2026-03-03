@@ -77,6 +77,20 @@ L10 - 48.jpeg,True,carrot,iPhone SE 2nd Generation,Apexel 100x
 
 The [freshlens-app](https://github.com/MobileMold/freshlens-app) repository contains a Flutter-based mobile app designed for consumer-facing demonstrations and can be used in conjunction with a hosted model. Using a smartphone microscope attachment, users can capture or import images of food. The app then displays the probability that the food is moldy.
 
+## Citation
+If you use this useful for your research, please cite this as:
+```
+@article{Pham2026MobileMold,
+  author       = {Dinh Nam Pham and
+                  Leonard Prokisch and
+                   Bennet Meyer and
+                  Jonas Thumbs},
+  title        = {MobileMold: A Smartphone-Based Microscopy Dataset for Food Mold Detection},
+  journal      = {arXiv eprint arXiv:2603.01944},
+  year         = {2026},
+}
+```
+
 ## 📄 License
 
 This dataset is available under the terms of the **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
