@@ -21,7 +21,7 @@ The dataset addresses the growing need for accessible, low-cost food safety moni
 You can download the full dataset here:
 * [Kaggle](https://www.kaggle.com/datasets/namphamdinh/mobilemold)
 * [Hugging Face](https://huggingface.co/datasets/nphamdinh/mobilemold)
-* [TU Berlin](https://tubcloud.tu-berlin.de/s/EzwL8e9a7oBBy5Q)
+* [Zenodo](https://doi.org/10.5281/zenodo.18782230))
 ---
 
 ### 📁 Dataset Structure
