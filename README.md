@@ -87,14 +87,20 @@ The [freshlens-app](https://github.com/MobileMold/freshlens-app) repository cont
 ## Citation
 If you use this useful for your research, please cite this as:
 ```
-@article{Pham2026MobileMold,
-  author       = {Dinh Nam Pham and
-                  Leonard Prokisch and
-                   Bennet Meyer and
-                  Jonas Thumbs},
-  title        = {MobileMold: A Smartphone-Based Microscopy Dataset for Food Mold Detection},
-  journal      = {arXiv eprint arXiv:2603.01944},
-  year         = {2026},
+@inproceedings{Pham2026MobileMold,
+author = {Pham, Dinh Nam and Prokisch, Leonard and Meyer, Bennet and Thumbs, Jonas},
+title = {MobileMold: A Smartphone-Based Microscopy Dataset for Food Mold Detection},
+year = {2026},
+isbn = {9798400724817},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3793853.3799806},
+doi = {10.1145/3793853.3799806},
+booktitle = {Proceedings of the ACM Multimedia Systems Conference 2026},
+pages = {402–408},
+numpages = {7},
+keywords = {Dataset, Smartphone, Food, Mold, Microscope, Mobile, Fungal},
+series = {MMSys '26}
 }
 ```
 
