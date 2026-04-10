@@ -1,12 +1,29 @@
 # MobileMold: A Smartphone-Based Microscopy Dataset for Food Mold Detection
 
+<div align="center">
+  
+>[Dinh Nam Pham](https://nphamdinh.github.io)<sup>1</sup>, [Leonard Prokisch](https://de.linkedin.com/in/leonard-prokisch)<sup>2</sup>, [Bennet Meyer](https://orcid.org/0009-0001-3415-3588)<sup>3</sup>, [Jonas Thumbs](https://de.linkedin.com/in/jonas-thumbs-9b744a282)<sup>4</sup>
+>
+><sup>1</sup> Technical University of Berlin,
+><sup>2</sup> University of Regensburg,
+><sup>3</sup> ETH Zurich,
+><sup>4</sup> University of Tübingen
+  
+  <a href="https://mobilemold.github.io/dataset/"><img src="https://img.shields.io/static/v1?label=Website&message=MobileMold&color=purple"></a> &ensp;
+  <a href="https://doi.org/10.1145/3793853.3799806"><img src="https://img.shields.io/static/v1?label=Paper&message=ACM%20MMSys&color=black"></a> &ensp;
+  <a href="https://arxiv.org/abs/2603.01944"><img src="https://img.shields.io/static/v1?label=Preprint&message=arXiv&color=red&logo=arxiv"></a> &ensp;
+  <a href="https://huggingface.co/datasets/nphamdinh/mobilemold"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://www.kaggle.com/datasets/namphamdinh/mobilemold"><img src="https://img.shields.io/static/v1?label=Dataset&message=Kaggle&color=blue"></a> &ensp;
+  <a href="https://doi.org/10.5281/zenodo.18782230"><img src="https://img.shields.io/static/v1?label=Dataset&message=Zenodo&color=green"></a> &ensp;
+</div>
+
 <p align="center">
   
 <img height="300" alt="mobilemold-header" src="https://github.com/user-attachments/assets/17788ec4-5c4d-4176-834e-a048b7635b3e" />
 
 <p/>
 
-This is the repository of MobileMold, a smartphone-microsope-based dataset with 4941 annotated images for food mold detection.
+This is the oficial repository of MobileMold, a smartphone-microsope-based dataset with 4941 annotated images for food mold detection.
 
 ## 🌟 About MobileMold
 
@@ -28,7 +45,7 @@ The dataset addresses the growing need for accessible, low-cost food safety moni
 You can download the full dataset here:
 * [Kaggle](https://www.kaggle.com/datasets/namphamdinh/mobilemold)
 * [Hugging Face](https://huggingface.co/datasets/nphamdinh/mobilemold)
-* [Zenodo](https://doi.org/10.5281/zenodo.18782230))
+* [Zenodo](https://doi.org/10.5281/zenodo.18782230)
 ---
 
 ### 📁 Dataset Structure
